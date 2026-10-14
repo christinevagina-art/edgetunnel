@@ -1,8 +1,7 @@
-name = "polished-resonance-89fa"
+name = "lingering-cake-0e6e"
 main = "_worker.js"
-compatibility_date = "2026-01-20"
+compatibility_date = "2026-10-14"
 keep_vars = true
-
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
 id = "26a4698c450a4a35a592788000e0e672"				#KV数据库id
